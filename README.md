@@ -1,2 +1,2 @@
 # My_study
-Stady of coding.
+Study of coding.
